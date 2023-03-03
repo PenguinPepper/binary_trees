@@ -10,8 +10,6 @@
  */
 int binary_tree_balance(const binary_tree_t *tree)
 {
-	int l, r;
-
 	if (tree == NULL)
 		return (0);
 }
